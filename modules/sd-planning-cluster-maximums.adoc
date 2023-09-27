@@ -19,7 +19,6 @@ ifdef::openshift-dedicated[]
 endif::[]
 cluster.
 
-These guidelines are based on a cluster of 102 compute (also known as worker) nodes in a multiple availability zone configuration. For smaller clusters, the maximums are lower.
 
 [NOTE]
 ====
