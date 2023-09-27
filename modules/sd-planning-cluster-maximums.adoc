@@ -19,8 +19,6 @@ ifdef::openshift-dedicated[]
 endif::[]
 cluster.
 
-These guidelines are based on a cluster of 102 compute (also known as worker) nodes in a multiple availability zone configuration. For smaller clusters, the maximums are lower.
-
 [NOTE]
 ====
 The OpenShift Container Platform version used in all of the tests is OCP 4.8.0.
